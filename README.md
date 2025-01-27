@@ -30,18 +30,8 @@
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinavanand3154/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://abhinav-anand-dev.netlify.app/)  
-📧 **Email:** (mailto:abhinav.abhinavanand3154@gmail.com)  
+📧 **Email:** (mailto:abhinavanand3154@gmail.com)  
 📞 **Phone:** +91-9155346113 
-
----
-
-## 🎨 Profile Decorations  
-
-**Dynamic Visitors Badge:**  
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=YourUsername.YourUsername)
-
-**GIF or Hero Section:**  
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
