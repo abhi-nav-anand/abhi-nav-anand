@@ -27,20 +27,11 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinavanand3154/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://abhinav-anand-dev.netlify.app/)  
-📧 **Email:** [abhinav.yourmail@example.com](mailto:abhinav.abhinavanand3154@gmail.com)  
-📞 **Phone:** [+91-9155346113] 
+📧 **Email:** (mailto:abhinav.abhinavanand3154@gmail.com)  
+📞 **Phone:** +91-9155346113 
 
 ---
 
