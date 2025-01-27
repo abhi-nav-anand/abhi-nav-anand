@@ -1,11 +1,11 @@
-# Hi there! 👋 I'm [Your Name]  
+# Hi there! 👋 I'm Abhinav Anand  
 
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full-stack+developer;Open-source+contributor;Always+learning+new+things" alt="Typing SVG" />
 
 ---
 
 ## 🌟 About Me  
-- 💻 I'm a passionate **Software Developer** focused on **building solutions** that matter.  
+- 💻 I'm a passionate **Full Stack Web Developer** focused on **building solutions** that matter.  
 - 🌱 Currently learning **[Insert Current Tech or Skill]**.  
 - 🎯 Goal for 2025: **Contribute to more open-source projects**.  
 - ⚡ Fun Fact: I love **[Insert fun fact about you]**!
@@ -15,9 +15,7 @@
 ## 🚀 Tech Stack  
 
 ### 💻 Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 
 ### 🛠️ Frameworks & Tools  
@@ -39,9 +37,10 @@
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinavanand3154/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinavanand3154/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://abhinav-anand-dev.netlify.app/)  
+📧 **Email:** [abhinav.yourmail@example.com](mailto:abhinav.abhinavanand3154@gmail.com)  
+📞 **Phone:** [+91-9155346113] 
 
 ---
 
@@ -56,4 +55,3 @@
 ---
 
 ⭐️ **Feel free to explore my repositories and drop a star if you find something useful!**
-
