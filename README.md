@@ -16,6 +16,7 @@
 
 ### 💻 Programming Languages  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 
 ### 🛠️ Frameworks & Tools  
@@ -30,8 +31,8 @@
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinavanand3154/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://abhinav-anand-dev.netlify.app/)  
-📧 **Email:** (mailto:abhinavanand3154@gmail.com)  
-📞 **Phone:** +91-9155346113 
+📧 **Email:** [abhinavanand3154@gmail.com](mailto:abhinavanand3154@gmail.com)  
+📞 **Phone:** +91-9155346113  
 
 ---
 
