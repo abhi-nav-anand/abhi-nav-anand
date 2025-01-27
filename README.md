@@ -6,9 +6,9 @@
 
 ## 🌟 About Me  
 - 💻 I'm a passionate **Full Stack Web Developer** focused on **building solutions** that matter.  
-- 🌱 Currently learning **[Insert Current Tech or Skill]**.  
+- 🌱 Currently learning **Full Stack Web Development(MERN)**.  
 - 🎯 Goal for 2025: **Contribute to more open-source projects**.  
-- ⚡ Fun Fact: I love **[Insert fun fact about you]**!
+- ⚡ Fun Fact: I love **Coding**
 
 ---
 
